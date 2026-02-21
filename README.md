@@ -36,7 +36,7 @@ bash <(curl -sSL https://spotx-official.github.io/run.sh)
 ```
 or
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/SpotX-Official/SpotX-Bash/main/spotx.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/naufalriansyah/SpotX-Bash/main/spotx.sh)
 ```
 - By default...
   - all supported experimental features are enabled
